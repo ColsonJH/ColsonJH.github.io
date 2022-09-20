@@ -2,6 +2,11 @@ body {
   font-family: Jost;
 }
 .display-1 {
+  <style>
+ .bigger {
+ font-size: 2.5em;
+ }
+</style>
   font-family: 'Jost', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
